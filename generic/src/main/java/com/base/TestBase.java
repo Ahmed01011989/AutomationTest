@@ -1,4 +1,5 @@
 package com.base;
+
 import com.relevantcodes.extentreports.ExtentReports;
 import com.relevantcodes.extentreports.LogStatus;
 import com.report.ExtentManager;
